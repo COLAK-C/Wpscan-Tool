@@ -230,7 +230,7 @@ proxykullanmak ()
     echo "  |-----------------------------------------------------------------------| "
     echo "  |                          DARKSECARMY.COM                              | "
     echo "  |-----------------------------------------------------------------------| " 
-    echo "  |                             Null Scan                                 | "
+    echo "  |                          PROXY KULLANMAK                              | "
     echo "  |-----------------------------------------------------------------------| "
     echo "                CTRL + C YAPARAK MENUYE GERI DONEBILIRISINIZ "
 echo "HEDEF URL :"
