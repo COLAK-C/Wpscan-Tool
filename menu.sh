@@ -358,7 +358,7 @@ echo -e "${WHITE}
 ╚███╔███╔╝██║     ███████║╚██████╗██║  ██║██║ ╚████║       ██║   ╚██████╔╝╚██████╔╝███████╗${BLUE}
  ╚══╝╚══╝ ╚═╝     ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝${WHITE}
 "${WHITE}                                                                                           
-    echo -e "${WHITE}CODED BY YANLIZ KURT ${GREEN}DARKSECARMY.COM ${RED}[NO EDIT] "
+    echo -e "${WHITE}CODED BY COLAK ${GREEN}DARKSECARMY.COM ${RED}[NO EDIT] "
     echo -e "${WHITE} "${GREEN}CTRL + Z YAPARAK SCRIPTDEN CIKIS YAPABILIRSINIZ
     echo -e "${RED}==================== PARAMETRELER ====================+ "	
     echo -e "${LIGHTBLUE}[1]${WHITE}PLUGIN LISTELEMEK${LIGHTBLUE}                                  | " 
